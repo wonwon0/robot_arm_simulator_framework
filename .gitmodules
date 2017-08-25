@@ -17,3 +17,21 @@
     path = /scripts
     url = git://github.com/wonwon0/scripts
 
+[submodule "jaco-arm-pkgs"]
+	path = jaco-arm-pkgs
+	url = git://github.com/wonwon0/jaco-arm-pkgs
+[submodule "joint-control-pkgs"]
+	path = joint-control-pkgs
+	url = git://github.com/wonwon0/joint-control-pkgs
+[submodule "convenience-pkgs"]
+	path = convenience-pkgs
+	url = git://github.com/wonwon0/convenience-pkgs
+[submodule "kinova-ros"]
+	path = kinova-ros
+	url = git://github.com/wonwon0/kinova-ros
+[submodule "universal_robot"]
+	path = universal_robot
+	url = git://github.com/wonwon0/universal_robot
+[submodule "scripts"]
+	path = scripts
+	url = git://github.com/wonwon0/scripts
