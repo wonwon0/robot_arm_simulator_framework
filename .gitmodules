@@ -15,7 +15,7 @@
     url = git://github.com/wonwon0/joint-control-pkgs
 [submodule "./scripts"]
     path = /scripts
-    url = git://github.com/wonwon0/scripts
+    url = git://github.com/wonwon0/jaco_gazebo_tools
 
 [submodule "jaco-arm-pkgs"]
 	path = jaco-arm-pkgs
