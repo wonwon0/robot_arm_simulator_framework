@@ -35,3 +35,6 @@
 [submodule "scripts"]
 	path = scripts
 	url = git://github.com/wonwon0/scripts
+[submodule "jaco_gazebo_tools"]
+	path = jaco_gazebo_tools
+	url = git://github.com/wonwon0/jaco_gazebo_tools
