@@ -15,4 +15,8 @@
 	url = git://github.com/wonwon0/universal_robot
 [submodule "jaco_gazebo_tools"]
 	path = jaco_gazebo_tools
-	url = git://github.com/wonwon0/jaco_gazebo_tools
+    url = git://github.com/wonwon0/jaco_gazebo_tools
+[submodule "scripts"]
+    path = scripts
+    url = git://github.com/wonwon0/jaco_gazebo_tools
+
